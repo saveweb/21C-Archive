@@ -7,6 +7,7 @@
 - [@gledos](https://github.com/gledos/) 做了简繁英 html 索引页和封面图片的抓取、网络版目录索引的 MarkDown 格式化；
 - [@yzqzss](https://github.com/yzqzss/) 仅将整理后的文件上传至 GitHub 。
 
+目前仓库文件大小为 2.6GiB 左右，Clone 前请确保剩余空间充足和网络稳定。
 
 > 以下是博文 [《二十一世紀》歸檔計劃 – Icey の塔](https://www.icey.pro/misc/384/) 的全文转载：
 ---
