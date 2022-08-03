@@ -39,10 +39,10 @@
 
 ## 链接
 
--   Alist（等所有整理完毕后一并上传）
+-   [Alist](https://drive.icey.pro/Twenty-First-Century)
 -   [Ali Pan](https://www.aliyundrive.com/s/6cL9wmh3S35)
 -   [Baidu Pan](https://pan.baidu.com/s/1iFqtF81eE5Zmb53Z4QuiaA?pwd=7bzh)
--   GitHub
+-   [GitHub](https://github.com/saveweb/21C-Archive)
 -   [Google Drive](https://drive.google.com/drive/folders/1yXYg4_l30xeQhf-dWWlLxyePggyhjmqO?usp=sharing)
 -   [OneDrive](https://1drv.ms/u/s!Ag4ia1FjDRAMgcJCOzZoYFYjd22Z9w?e=3ZpxMz)
 -   [Telegram Channel](https://t.me/Iceypro/36)
@@ -52,6 +52,7 @@ P.S.
 -   该归档计划长期更新，更新计划包括但不限于更新文件，文件命名，各级链接/目录，以及封面图等
 -   为避免封禁，阿里云等国内网盘为`.exe`自解压缩包，顺便阿里云的违禁词真是奇奇怪怪，《二十世纪》都能给设成违禁词
 -   网盘被封请及时告知，我将尽快补链
+-   网络版存在一个重复文件 0204111.pdf.1，其中Google Drive、OneDrive 已经进行删除。百度盘，阿里盘，以及TG Channel 由于为压缩包格式，所以暂时不替换，等到下次更新才会删除。请各位注意删除
 
 ## 特别感谢
 
