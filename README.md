@@ -1,7 +1,7 @@
 # 21C-Archive
 二十一世紀歸檔計劃
 
-本《二十一世纪》期刊存档计划由 [@Icey-u](https://github.com/Icey-u)（[Blog](https://www.icey.pro/), [Telegram](https://t.me/@Iceyour)) [发起](https://www.icey.pro/misc/384/)。
+本《二十一世纪》期刊存档计划由 [@Icey-u](https://github.com/Icey-u)（[Blog](https://www.icey.one/), [Telegram](https://t.me/IceySwan)) [发起](https://www.icey.pro/misc/384/)。
 
 - [@Icey-u](https://github.com/Icey-u) 下载并整理了 1990 至 2021 年共 188 期的纸质版 PDF；
 - [@gledos](https://github.com/gledos/) 下载所有网络版 PDF、抓取简繁英 html 索引页和封面图片、网络版目录索引的 MarkDown 格式化；
@@ -9,7 +9,7 @@
 
 目前仓库文件大小为 2.6GiB 左右，Clone 前请确保剩余空间充足和网络稳定。
 
-> 以下是博文 [《二十一世紀》歸檔計劃 – Icey の塔](https://www.icey.pro/misc/384/) 的全文转载：
+> 以下是博文 [《二十一世紀》歸檔計劃 – Icey One](https://www.icey.one/misc/21c-archive/) 的全文转载：
 ---
 
 ## 期刊简介
